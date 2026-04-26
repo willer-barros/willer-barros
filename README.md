@@ -20,9 +20,11 @@
 
 ## 📊 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github.com/willer-barros/willer-barros/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willer-barros&theme=dracula&hide_border=true" alt="Streak Stats" />
