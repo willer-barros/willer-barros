@@ -14,32 +14,16 @@
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willer-barros&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willer-barros&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ## 📊 Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/willer-barros/willer-barros/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willer-barros&theme=dracula&hide_border=true" alt="Streak Stats" />
 </p>
 
 <h3 align="left">🚀 Projetos em Destaque</h3>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/taskMy-Next.js%20%26%20Tailwind-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000&labelColor=232323" height="35">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/plan--mais-Prisma%20%26%20PostgreSQL-blue?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&labelColor=1A202C" height="35">
-  </a>
-</p>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
