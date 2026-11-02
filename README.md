@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,js,ts,react,nextjs,tailwind,prisma,docker,git" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,ts,nextjs,prisma,docker,git,nestjs,k8s,terraform" />
   </a>
 </p>
 
