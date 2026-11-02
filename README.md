@@ -1,19 +1,27 @@
-# Olá, eu sou Willer Barros!
+# Willer Barros
+**Analista de Sistemas · Full-stack · Docente de Desenvolvimento Web**
 
-![Typewriter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Analista+de+Sistemas;Docente+de+Desenvolvimento+Web;Especialista+Full-stack)
+Construo aplicações web de ponta a ponta, da modelagem do banco ao deploy,
+com foco em segurança, manutenibilidade e experiência do usuário.
+Também ensino desenvolvimento web e gosto de transformar conceitos
+complexos em código simples.
 
+##  Stack no dia a dia
+- **Backend:** Python, FastAPI, PostgreSQL
+- **Frontend:** React, Vite, TypeScript, Next.js
+- **Infra:** Docker, Nginx, CI/CD com GitHub Actions
 
-### 🛠️ Tecnologias e Ferramentas
+## Projetos em destaque
+| Projeto | Problema que resolve | Stack |
+|---|---|---|
+| [SonaiTec]| Tema de VS Code publicado no Marketplace | JSON, TypeScript |
+| [TaskMy]| Uma frase sobre o problema e o resultado | FastAPI, PostgreSQL |
+| [Mensageria Estacio 3]| Uma frase sobre o problema e o resultado | Next.js, Prisma |
+| [gelido-w]| Tema de VS Code publicado no Marketplace | JSON, TypeScript |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,mongodb,ts,nextjs,prisma,docker,git,nestjs,k8s,terraform" />
-  </a>
-</p>
+## 📝 Escrevo e ensino
+- [Artigo ou aula 1](link)
+- [Artigo ou aula 2](link)
 
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willer-barros&theme=dracula&hide_border=true" alt="Streak Stats" />
-</p>
+## 📫 Contato
+[LinkedIn](link) · [Portfólio](link) · [E-mail](willerbarros137@gmail.com)
