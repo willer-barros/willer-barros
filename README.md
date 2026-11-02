@@ -1,27 +1,26 @@
 # Willer Barros
-**Analista de Sistemas · Full-stack · Docente de Desenvolvimento Web**
+**Software engineer · Backend Developer · Web Development Instructor**
 
-Construo aplicações web de ponta a ponta, da modelagem do banco ao deploy,
-com foco em segurança, manutenibilidade e experiência do usuário.
-Também ensino desenvolvimento web e gosto de transformar conceitos
-complexos em código simples.
+I build web applications end to end, from database modeling to deployment,
+focusing on security and maintainability.
 
 ##  Stack no dia a dia
-- **Backend:** Python, FastAPI, PostgreSQL
-- **Frontend:** React, Vite, TypeScript, Next.js
-- **Infra:** Docker, Nginx, CI/CD com GitHub Actions
+- **Backend:** Python, FastAPI, Django, Node.js, Nest.js, PostgreSQL, Redis, MongoDB;
+- **Frontend:** React, TypeScript, Next.js;
+- **Infra:** Docker, Nginx, K8s, Terraform, CI/CD com GitHub Actions;
 
 ## Projetos em destaque
 | Projeto | Problema que resolve | Stack |
 |---|---|---|
-| [SonaiTec]| Tema de VS Code publicado no Marketplace | JSON, TypeScript |
-| [TaskMy]| Uma frase sobre o problema e o resultado | FastAPI, PostgreSQL |
-| [Mensageria Estacio 3]| Uma frase sobre o problema e o resultado | Next.js, Prisma |
+| [SonaiTec]| CRM para empres ade Telecom | FastApi, Postgres, React.js |
+| [TaskMy]| Gestão de Tarefas | Django, PostgreSQL, Next.JS |
+| [Mensageria Estacio 3]| Uma frase sobre o problema e o resultado | Next.js, Postgres |
 | [gelido-w]| Tema de VS Code publicado no Marketplace | JSON, TypeScript |
 
+
 ## 📝 Escrevo e ensino
-- [Artigo ou aula 1](link)
-- [Artigo ou aula 2](link)
+- [Aulas Programação](link)
+- [Banco de dados](link)
 
 ## 📫 Contato
 [LinkedIn](link) · [Portfólio](link) · [E-mail](willerbarros137@gmail.com)
