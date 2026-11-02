@@ -20,8 +20,8 @@ and enjoy turning complex concepts into simple, working code.
 | [gelido-w] | VS Code theme published on the Marketplace | JSON, TypeScript |
 
 ## 📝 Writing & Teaching
-- [Programming Classes](https://LINK)
-- [Databases](https://LINK)
+- [Programming Classes](https://github.com/willer-barros/aulas-programacao-senai)
+- [Databases](https://github.com/willer-barros/banco-de-dados-senai)
 
 ## 📫 Contact
 [LinkedIn](www.linkedin.com/in/willer-barros-440540252) · [Portfolio]([https://YOUR-SITE](https://willerbarros.vercel.app/)) · [Email](mailto:willerbarros137@gmail.com)
